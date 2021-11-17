@@ -1,0 +1,47 @@
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaBack\bin\Debug\net5.0\FerremaniaBack.deps.json
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaBack\bin\Debug\net5.0\FerremaniaBack.dll
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaBack\bin\Debug\net5.0\ref\FerremaniaBack.dll
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaBack\bin\Debug\net5.0\FerremaniaBack.pdb
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaBack\obj\Debug\net5.0\FerremaniaBack.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaBack\obj\Debug\net5.0\FerremaniaBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaBack\obj\Debug\net5.0\FerremaniaBack.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaBack\obj\Debug\net5.0\FerremaniaBack.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaBack\obj\Debug\net5.0\FerremaniaBack.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaBack\obj\Debug\net5.0\FerremaniaBack.dll
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaBack\obj\Debug\net5.0\ref\FerremaniaBack.dll
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaBack\obj\Debug\net5.0\FerremaniaBack.pdb
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaBack\bin\Debug\net5.0\FerremaniaBack.deps.json
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaBack\bin\Debug\net5.0\FerremaniaBack.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaBack\bin\Debug\net5.0\ref\FerremaniaBack.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaBack\bin\Debug\net5.0\FerremaniaBack.pdb
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaBack\obj\Debug\net5.0\FerremaniaBack.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaBack\obj\Debug\net5.0\FerremaniaBack.AssemblyInfoInputs.cache
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaBack\obj\Debug\net5.0\FerremaniaBack.AssemblyInfo.cs
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaBack\obj\Debug\net5.0\FerremaniaBack.csproj.CoreCompileInputs.cache
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaBack\obj\Debug\net5.0\FerremaniaBack.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaBack\obj\Debug\net5.0\ref\FerremaniaBack.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaBack\obj\Debug\net5.0\FerremaniaBack.pdb
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaBack\obj\Debug\net5.0\FerremaniaBack.csproj.AssemblyReference.cache
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaBack\bin\Debug\net5.0\FerremaniaBack.deps.json
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaBack\bin\Debug\net5.0\FerremaniaBack.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaBack\bin\Debug\net5.0\ref\FerremaniaBack.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaBack\bin\Debug\net5.0\FerremaniaBack.pdb
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaBack\obj\Debug\net5.0\FerremaniaBack.csproj.AssemblyReference.cache
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaBack\obj\Debug\net5.0\FerremaniaBack.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaBack\obj\Debug\net5.0\FerremaniaBack.AssemblyInfoInputs.cache
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaBack\obj\Debug\net5.0\FerremaniaBack.AssemblyInfo.cs
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaBack\obj\Debug\net5.0\FerremaniaBack.csproj.CoreCompileInputs.cache
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaBack\obj\Debug\net5.0\FerremaniaBack.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaBack\obj\Debug\net5.0\ref\FerremaniaBack.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaBack\obj\Debug\net5.0\FerremaniaBack.pdb
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaBack\bin\Debug\net5.0\FerremaniaBack.deps.json
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaBack\bin\Debug\net5.0\FerremaniaBack.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaBack\bin\Debug\net5.0\ref\FerremaniaBack.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaBack\bin\Debug\net5.0\FerremaniaBack.pdb
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaBack\obj\Debug\net5.0\FerremaniaBack.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaBack\obj\Debug\net5.0\FerremaniaBack.AssemblyInfoInputs.cache
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaBack\obj\Debug\net5.0\FerremaniaBack.AssemblyInfo.cs
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaBack\obj\Debug\net5.0\FerremaniaBack.csproj.CoreCompileInputs.cache
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaBack\obj\Debug\net5.0\FerremaniaBack.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaBack\obj\Debug\net5.0\ref\FerremaniaBack.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaBack\obj\Debug\net5.0\FerremaniaBack.pdb

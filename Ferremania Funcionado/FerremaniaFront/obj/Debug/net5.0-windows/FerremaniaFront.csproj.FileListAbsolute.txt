@@ -1,0 +1,226 @@
+C:\Users\Lucas\Desktop\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.exe
+C:\Users\Lucas\Desktop\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.deps.json
+C:\Users\Lucas\Desktop\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.runtimeconfig.json
+C:\Users\Lucas\Desktop\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.dll
+C:\Users\Lucas\Desktop\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\ref\FerremaniaFront.dll
+C:\Users\Lucas\Desktop\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.pdb
+C:\Users\Lucas\Desktop\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\Lucas\Desktop\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmAcercaDe.resources
+C:\Users\Lucas\Desktop\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmAltaCliente.resources
+C:\Users\Lucas\Desktop\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmAltaFactura.resources
+C:\Users\Lucas\Desktop\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmBienvenida.resources
+C:\Users\Lucas\Desktop\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmConsultarFactura.resources
+C:\Users\Lucas\Desktop\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.Properties.Resources.resources
+C:\Users\Lucas\Desktop\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.csproj.GenerateResource.cache
+C:\Users\Lucas\Desktop\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.dll
+C:\Users\Lucas\Desktop\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\ref\FerremaniaFront.dll
+C:\Users\Lucas\Desktop\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.pdb
+C:\Users\Lucas\Desktop\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmLogin.resources
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.exe
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.deps.json
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.runtimeconfig.json
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.dll
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\ref\FerremaniaFront.dll
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.pdb
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaBack.dll
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaBack.pdb
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmAcercaDe.resources
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmAltaCliente.resources
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmAltaFactura.resources
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmBienvenida.resources
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmConsultarFactura.resources
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmLogin.resources
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.Properties.Resources.resources
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.dll
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\ref\FerremaniaFront.dll
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.pdb
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Escritorio\Facu\2do Semestre\Arquitectura de datos\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.csproj.CopyComplete
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.exe
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.deps.json
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.runtimeconfig.json
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.runtimeconfig.dev.json
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\ref\FerremaniaFront.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.pdb
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaBack.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaBack.pdb
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.csproj.AssemblyReference.cache
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmAcercaDe.resources
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmAltaCliente.resources
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmAltaFactura.resources
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmBienvenida.resources
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmConsultarFactura.resources
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmLogin.resources
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.Properties.Resources.resources
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.csproj.GenerateResource.cache
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.AssemblyInfoInputs.cache
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.AssemblyInfo.cs
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.csproj.CoreCompileInputs.cache
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\ref\FerremaniaFront.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.pdb
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.genruntimeconfig.cache
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\Carga Facturas Funcionando\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.csproj.CopyComplete
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.exe
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.deps.json
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.runtimeconfig.json
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.runtimeconfig.dev.json
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\ref\FerremaniaFront.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.pdb
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaBack.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaBack.pdb
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.csproj.AssemblyReference.cache
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmAcercaDe.resources
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmAltaCliente.resources
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmAltaFactura.resources
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmBienvenida.resources
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmConsultarFactura.resources
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmLogin.resources
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.Properties.Resources.resources
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.csproj.GenerateResource.cache
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.AssemblyInfoInputs.cache
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.AssemblyInfo.cs
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.csproj.CoreCompileInputs.cache
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\ref\FerremaniaFront.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.pdb
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\4 - Arreglo Carga Facturas\FerremaniaPI\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.genruntimeconfig.cache
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\5 - Login\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.exe
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\5 - Login\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.deps.json
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\5 - Login\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.runtimeconfig.json
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\5 - Login\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.runtimeconfig.dev.json
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\5 - Login\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\5 - Login\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\ref\FerremaniaFront.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\5 - Login\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.pdb
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\5 - Login\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\5 - Login\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\5 - Login\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\5 - Login\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\5 - Login\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\5 - Login\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\5 - Login\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\5 - Login\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaBack.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\5 - Login\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaBack.pdb
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\5 - Login\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.csproj.AssemblyReference.cache
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\5 - Login\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmAcercaDe.resources
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\5 - Login\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmAltaCliente.resources
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\5 - Login\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmAltaFactura.resources
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\5 - Login\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmBienvenida.resources
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\5 - Login\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmConsultarFactura.resources
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\5 - Login\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmLogin.resources
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\5 - Login\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.Properties.Resources.resources
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\5 - Login\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.csproj.GenerateResource.cache
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\5 - Login\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\5 - Login\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.AssemblyInfoInputs.cache
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\5 - Login\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.AssemblyInfo.cs
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\5 - Login\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.csproj.CoreCompileInputs.cache
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\5 - Login\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\5 - Login\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\ref\FerremaniaFront.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\5 - Login\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.pdb
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\5 - Login\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.genruntimeconfig.cache
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7- WebApi\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.exe
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7- WebApi\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.deps.json
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7- WebApi\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.runtimeconfig.json
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7- WebApi\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.runtimeconfig.dev.json
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7- WebApi\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7- WebApi\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\ref\FerremaniaFront.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7- WebApi\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.pdb
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7- WebApi\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7- WebApi\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7- WebApi\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7- WebApi\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7- WebApi\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7- WebApi\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7- WebApi\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7- WebApi\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaBack.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7- WebApi\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaBack.pdb
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7- WebApi\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.csproj.AssemblyReference.cache
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7- WebApi\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmAcercaDe.resources
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7- WebApi\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmAltaCliente.resources
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7- WebApi\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmAltaFactura.resources
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7- WebApi\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmBienvenida.resources
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7- WebApi\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmConsultarFactura.resources
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7- WebApi\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmLogin.resources
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7- WebApi\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.Properties.Resources.resources
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7- WebApi\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.csproj.GenerateResource.cache
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7- WebApi\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7- WebApi\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.AssemblyInfoInputs.cache
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7- WebApi\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.AssemblyInfo.cs
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7- WebApi\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.csproj.CoreCompileInputs.cache
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7- WebApi\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7- WebApi\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\ref\FerremaniaFront.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7- WebApi\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.pdb
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7- WebApi\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.genruntimeconfig.cache
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.exe
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.deps.json
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.runtimeconfig.json
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.runtimeconfig.dev.json
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\ref\FerremaniaFront.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaFront.pdb
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaBack.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaFront\bin\Debug\net5.0-windows\FerremaniaBack.pdb
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.csproj.AssemblyReference.cache
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmAcercaDe.resources
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmAltaCliente.resources
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmAltaFactura.resources
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmBienvenida.resources
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmConsultarFactura.resources
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.FrmLogin.resources
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.Properties.Resources.resources
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.csproj.GenerateResource.cache
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.AssemblyInfoInputs.cache
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.AssemblyInfo.cs
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.csproj.CoreCompileInputs.cache
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\ref\FerremaniaFront.dll
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.pdb
+E:\Facu\2do Semestre\Programacion II\TP Ferremania Pelado\7.1 Web Api\Ferremania Funcionado\FerremaniaFront\obj\Debug\net5.0-windows\FerremaniaFront.genruntimeconfig.cache
